@@ -1,5 +1,7 @@
 # raspberry-pi-kiosk
 
+Do you want to setup a raspberry-pi to automatically enter kiosk mode after it has booted up? Well, then you have come to the right place because this repository holds example files that can be used to accomplish just that. All you need to do, essentially, is to update the so called autostart configuration file on your raspberry-pi as this is the file that manages the applications which are started on login.
+
 Information about the autostart configuration file can be found on:
 - https://wiki.lxde.org/en/LXSession#Autostarted_applications_using_lxsession
 
